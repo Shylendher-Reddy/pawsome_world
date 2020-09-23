@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253116827421",
+    "firebase_url": "https://pawsome-world.firebaseio.com",
+    "project_id": "pawsome-world",
+    "storage_bucket": "pawsome-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253116827421:android:ffe8156fec9a002e4ac3f4",
+        "android_client_info": {
+          "package_name": "com.shylendherreddy.pawsome_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253116827421-93abs9eqkcrm990ksh5rdb2cfstmdm3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shylendherreddy.pawsome_world",
+            "certificate_hash": "d541e06d55bdbab8be31b102af0d2996e8091d6c"
+          }
+        },
+        {
+          "client_id": "253116827421-8apt2hdb9s9tnn7l959hdpu20ahaop0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDavmDvO6qtqX5mEHmOpG_zEonsV4txuVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253116827421-8apt2hdb9s9tnn7l959hdpu20ahaop0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
